@@ -8,14 +8,14 @@ The results of these projects will form the basis for building a "Core" integrat
 
 There are several related items, including Object Detection, Mask Detection, Natural Language Processing for e-commerce products, IBM challenge, and others.
 
-1. [Car Price Predict](https://github.com/simplephi)
-2. [Mask Detection](https://github.com/simplephi)
-3. [IBM Challenge](https://github.com/simplephi)
-4. [ML Practice](https://github.com/simplephi)
-5. [Product Matching](https://github.com/simplephi)
-6. [Recommendation System (Ongoing)](https://github.com/simplephi)
-7. [Regression and Classification](https://github.com/simplephi)
-8. [Social Distance Detection](https://github.com/simplephi)
+1. [Car Price Predict](https://github.com/simplephi/pyml/tree/main/car-price-predict-flow-ibm)
+2. [Mask Detection](https://github.com/simplephi/pyml/tree/main/facedetection)
+3. [IBM Challenge](https://github.com/simplephi/pyml/tree/main/ibm-challenge)
+4. [ML Practice](https://github.com/simplephi/pyml/tree/main/ml-practice)
+5. [Product Matching](https://github.com/simplephi/pyml/tree/main/productmatching)
+6. [Recommendation System (Ongoing)](https://github.com/simplephi/pyml/tree/main/recommended-system)
+7. [Regression and Classification](https://github.com/simplephi/pyml/tree/main/regression-and-classification)
+8. [Social Distance Detection](https://github.com/simplephi/pyml/tree/main/socialdistance)
 
 ### Installing
 
